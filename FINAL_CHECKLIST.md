@@ -4,7 +4,7 @@
 
 ---
 
-## 🏗 Build & Setup
+## 🏗 Build & Setup 
 
 - [x] Project initialized with Next.js 16 (App Router)
 - [x] TypeScript configured and working
